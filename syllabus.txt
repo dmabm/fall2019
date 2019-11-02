@@ -1,1 +1,2 @@
 Learning Ojectives.
+1. Use Git.
