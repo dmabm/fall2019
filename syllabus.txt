@@ -1,2 +1,3 @@
 Learning Ojectives.
 1. Use Git Hub.
+2. Use Git.
